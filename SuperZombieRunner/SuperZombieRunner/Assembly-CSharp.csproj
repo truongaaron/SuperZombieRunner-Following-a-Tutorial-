@@ -55,6 +55,7 @@
   <ItemGroup>
      <Compile Include="Assets\Scripts\AnimatedTexture.cs" />
      <Compile Include="Assets\Scripts\DestroyOffScreen.cs" />
+     <Compile Include="Assets\Scripts\GameManager.cs" />
      <Compile Include="Assets\Scripts\GameObjectUtil.cs" />
      <Compile Include="Assets\Scripts\InputState.cs" />
      <Compile Include="Assets\Scripts\InstantVelocity.cs" />
@@ -66,6 +67,7 @@
      <Compile Include="Assets\Scripts\RecycleGameObject.cs" />
      <Compile Include="Assets\Scripts\Spawner.cs" />
      <Compile Include="Assets\Scripts\TiledBackground.cs" />
+     <Compile Include="Assets\Scripts\TimeManager.cs" />
  <Reference Include="UnityEditor.StandardEvents">
  <HintPath>C:/Users/AARONt/Desktop/SuperZombieRunner-Following-a-Tutorial-/SuperZombieRunner/SuperZombieRunner/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
  </Reference>
